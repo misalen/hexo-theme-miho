@@ -2,7 +2,7 @@
 title: MiHo-主题安装和配置详情
 date: 2017-08-01
 categories: 开源项目
-author: MinHow
+author: MinHowd
 tags:
     - 博客
     - 开源项目
